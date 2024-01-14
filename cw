@@ -12,7 +12,7 @@ local Camera = workspace.CurrentCamera
 local Nigger = PlayerService.LocalPlayer
 local Mouse = Nigger:GetMouse()
 
-local Menu = loadstring(game:HttpGet("https://raw.githubusercontent.com/Apple0213/wgwgwg/main/dd"))()
+local Menu = loadstring(game:HttpGet("https://raw.githubusercontent.com/Apple0213/wgwgwg/main/dd", true))()
 local Hooks = loadstring(game:HttpGet("https://rbx.nebula.tokyo/peak/MinHook.lua"))()
 
 local PlayerEntities = {}
